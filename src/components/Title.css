@@ -1,0 +1,40 @@
+
+.title-block{
+  background: rgba(0, 0, 0, 0.9);
+  border-radius: 8px;
+  /* position: fixed;
+  z-index: 10;
+  top: 200px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  width: 600px;
+  margin: 0 auto; */
+
+
+}
+
+.title-block .title {
+    display: inline-block;
+    padding: 30px 60px;
+    font-weight: normal;
+    font-size: 2.5rem;
+    margin: 10px auto;
+    color: #fff;
+  }
+  
+  .title-block .subtitle {
+    display: inline-block;
+    color: #fff;
+    font-weight: normal;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 60px;
+    font-size: 1.7rem;
+
+  }
+  
+  .title-block .table {
+    text-align: center;
+    margin: 50px auto;
+  }

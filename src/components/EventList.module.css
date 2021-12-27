@@ -1,0 +1,36 @@
+.card{
+    border: 1px solid #eee;
+    box-shadow: 4px 4px 5px rgba(0,0,0,0.05);
+    padding: 10px;
+    max-width: 400px;
+    margin: 20px auto;
+    border-radius: 8px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card div{
+    border: 1px solid #111;
+}
+
+.card h2{
+    padding: 1px;
+    font-size: 1.4rem;
+    width: 390px;
+    text-align: center;
+}
+
+.card p{
+    font-size: 1.2rem;
+}
+
+
+.card button{
+    background-color: #555;
+    border-radius: 8px;
+    background-color: crimson;
+}
